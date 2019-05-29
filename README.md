@@ -1,2 +1,2 @@
-# jinxiukeji_rn
-jinxiukeji_rn
+# jinXiuKeJi_rn
+锦绣科技react-native 项目
